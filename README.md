@@ -6,13 +6,16 @@
   <em>Software Developer · FastAPI Enthusiast · AI Tools Explorer</em>
 </p>
 
-<h4 align="left">
-  🎓 Recent graduate in Computer Science Engineering at 
+<p align="left">
+  🎓 Recent graduate in Computer Science majored in Software Engineering at 
   <a href="https://www.upc.edu/en" target="_blank">
     <strong>UPC Barcelona</strong>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_UPC.svg/1200px-Logo_UPC.svg.png" alt="UPC Logo" width="35" height="35" style="vertical-align: middle; margin-left: 4px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_UPC.svg/1200px-Logo_UPC.svg.png" alt="UPC Logo" width="35" height="35" style="vertical-align: middle; margin-left: 4px;"/>
   </a>
-</h4>
+</p>
+
+<img width="2925" height="49" alt="imagen" src="https://github.com/user-attachments/assets/f6015741-ea72-4a97-83ac-35740839bcc3" />
+
 
 
 ## 🌐 Let's Connect!
